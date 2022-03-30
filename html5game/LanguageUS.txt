@@ -803,7 +803,7 @@ msg_StoreConnect	The store is unavailable. Please make sure you have an internet
 msg_StoreReview	Would you like to rate and review Retro Bowl on the store for $num coach credits?
 ui_Store	Store
 btn_FreeAgents	Free#Agents
-btn_BuyCredits	Buy#Credits
+btn_BuyCredits	Buy200Credits
 btn_StaffHires	Staff#Hires
 ui_Unlocked	Unlocked
 ui_Unlock	Unlock
