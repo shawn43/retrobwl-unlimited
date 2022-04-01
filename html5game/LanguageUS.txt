@@ -444,7 +444,7 @@ ui_Scanlines	Scanlines
 ui_On	On
 ui_Off	Off
 ui_TeamMorale	Team Morale
-ui_Credit	Credit $1000000
+ui_Credit	Credit 
 ui_Facilities	Facilities
 ui_Fans	Fans
 ui_Fan	Fan
