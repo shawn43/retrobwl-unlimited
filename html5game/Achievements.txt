@@ -77,4 +77,3 @@ ACH_WIN_NOSTAR	Win a game without a star player	0
 ACH_TD_QB	Score a touchdown with the QB	0
 ACH_TD_PASS50	Throw 50 touchdowns in a season	0
 ACH_DOINK	Doink a field goal	0
-ACH_BARWISE   Run for 69 yards 0
