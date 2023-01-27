@@ -18,7 +18,7 @@ uid	name	conference	division	colhelmet	colshirt	colpants	coltertiary	tla	defense
 16	Dallas	1	0	$a6b8c3	$ffffff	$87c6eb	$0021ec	DAL	5	9	0	0	0	0	69	99	0
 17	New York G	1	0	$1933d1	$001cc8	$FFFFFF	$001CC8	NYG	6	6	0	0	0	0	47	25	0
 18	Philadelphia	1	0	$153020	$264933	$ffffff	$1b1b1b	PHI	6	4	0	0	0	0	47	15	1
-19	Washington	1	0	$4f0f0f	$641313	$FFFFFF	$641313	WAS	9	5	0	0	0	0	43	13	0
+19	Aggies	1	0	$480000	$651C32	$FFFFFF	$C00000	A&M	9	5	0	0	0	0	43	13	0
 20	Arizona	1	1	$ffffff	$a20000	$ffffff	$a20000	ARI	5	5	0	0	0	1	9	0	1
 21	Los Angeles R	1	1	$FA	$FA	$FFD100	$FA	LAR	7	9	0	0	0	2	17	0	0
 22	San Francisco	1	1	$ada94b	$a60303	$ada94b	$a60303	S.F	6	9	0	0	0	0	24	0	0
